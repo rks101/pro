@@ -6,3 +6,8 @@ Productivity tips and tools
 
 [Violet UML Editor](https://sourceforge.net/projects/violet/) for UML diagrams in Ubuntu. May the [source](https://github.com/violetumleditor/violetumleditor) be with you
 
+
+
+
+ASHX file format:  
+Some PDF viewer/browser may show file name with [ASHX](https://www.lifewire.com/ashx-file-2619693) - These PDFs are ASP.net Web handler generated files. 
