@@ -9,5 +9,7 @@ Productivity tips and tools
 
 
 
+[Browser Rendering Engine](https://www.browserstack.com/guide/browser-rendering-engine)
+
 ASHX file format:  
 Some PDF viewer/browser may show file name with [ASHX](https://www.lifewire.com/ashx-file-2619693) - These PDFs are ASP.net Web handler generated files. 
