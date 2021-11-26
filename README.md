@@ -15,3 +15,5 @@ ASHX file format:
 Some PDF viewer/browser may show file name with [ASHX](https://www.lifewire.com/ashx-file-2619693) - These PDFs are ASP.net Web handler generated files. 
 
 [Add new fonts in Ubuntu](https://itsfoss.com/install-fonts-ubuntu/) 
+
+Online [typing English to Hindi](https://hindityping.info/) and [get Hindi Fonts](https://hindityping.info/download/hindi-fonts-kruti-dev) 
