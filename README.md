@@ -15,6 +15,8 @@ Productivity tips and tools
 1. Using image menu: Please click on the image and in the menu that will appear below the selected image, select Wrap text.   
 2. Using a table: Create a table with one row and two columns. Add text in one of the columns and image in the other column. Next, hide the table borders. For this, right-click in the table to select Table properties from the menu that appears. Look for Table borders and change the table border color to white.
 
+[Dark mode in Google docs or Chrome](https://www.howtogeek.com/721117/how-to-turn-on-dark-mode-in-google-docs/) using [chrome flags](chrome://flags/)   
+
 
 [Violet UML Editor](https://sourceforge.net/projects/violet/) for UML diagrams in Ubuntu. May the [source](https://github.com/violetumleditor/violetumleditor) be with you
 
