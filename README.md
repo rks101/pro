@@ -4,7 +4,7 @@ Productivity tips and tools
 [Sign docs electronically without printing and scanning](https://www.howtogeek.com/164668/how-to-electronically-sign-documents-without-printing-and-scanning-them/)  
 
 
-[Annotate images online](markuphero.com), example: [How do I to set email forwarding](https://markuphero.com/share/VyVNwUD3UGHtkxouATmr)  
+[Annotate images online](https://markuphero.com/), example: [How do I to set email forwarding](https://markuphero.com/share/VyVNwUD3UGHtkxouATmr)  
 
 
 [How do we know Google apps outage?](https://www.google.com/appsstatus/dashboard/)  
