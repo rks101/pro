@@ -10,6 +10,11 @@ Productivity tips and tools
 [How do we know Google apps outage?](https://www.google.com/appsstatus/dashboard/)  
 
 
+[How do I get text and image together or side-by-side in Google Docs](https://support.google.com/docs/thread/2903921/how-do-i-put-text-next-to-an-image-in-a-document?hl=en)   
+
+1. Using image menu: Please click on the image and in the menu that will appear below the selected image, select Wrap text.   
+2. Using a table: Create a table with one row and two columns. Add text in one of the columns and image in the other column. Next, hide the table borders. For this, right-click in the table to select Table properties from the menu that appears. Look for Table borders and change the table border color to white.
+
 
 [Violet UML Editor](https://sourceforge.net/projects/violet/) for UML diagrams in Ubuntu. May the [source](https://github.com/violetumleditor/violetumleditor) be with you
 
