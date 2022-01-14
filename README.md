@@ -18,6 +18,9 @@ Productivity tips and tools
 [Dark mode in Google docs or Chrome](https://www.howtogeek.com/721117/how-to-turn-on-dark-mode-in-google-docs/) using [chrome flags](chrome://flags/)   
 
 
+[Gmail - whitelisting email](https://www.rightinbox.com/blog/whitelist-an-email-in-gmail)   
+
+
 [Violet UML Editor](https://sourceforge.net/projects/violet/) for UML diagrams in Ubuntu. May the [source](https://github.com/violetumleditor/violetumleditor) be with you
 
 
