@@ -31,4 +31,7 @@ Some PDF viewer/browser may show file name with [ASHX](https://www.lifewire.com/
 
 [How do we add new fonts in Ubuntu](https://itsfoss.com/install-fonts-ubuntu/) 
 
-Online [typing English to Hindi](https://hindityping.info/) and [get Hindi Fonts](https://hindityping.info/download/hindi-fonts-kruti-dev) 
+Online [typing English to Hindi](https://hindityping.info/) and [get Hindi Fonts](https://hindityping.info/download/hindi-fonts-kruti-dev)   
+
+
+[The absolute minimum every software developer absolutely positively must know about unicode and character-sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) by Joel Spolsky   
