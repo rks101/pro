@@ -15,7 +15,7 @@ Productivity tips and tools
 1. Using image menu: Please click on the image and in the menu that will appear below the selected image, select Wrap text.   
 2. Using a table: Create a table with one row and two columns. Add text in one of the columns and image in the other column. Next, hide the table borders. For this, right-click in the table to select Table properties from the menu that appears. Look for Table borders and change the table border color to white.
 
-[Dark mode in Google docs or Chrome](https://www.howtogeek.com/721117/how-to-turn-on-dark-mode-in-google-docs/) using [chrome flags](chrome://flags/)   
+[Dark mode in Google docs or Chrome](https://www.howtogeek.com/721117/how-to-turn-on-dark-mode-in-google-docs/) using [chrome flags](chrome://flags/). Also, ctrl+shift+l should bring dark mode for some websites in browser if enabled (desktop/laptop only).   
 
 
 [Refer cells from another worksheet](https://www.ablebits.com/office-addins-blog/2015/12/08/excel-reference-another-sheet-workbook/)    
