@@ -1,6 +1,12 @@
 # pro
 Productivity tips and tools
 
+[Markdown files](https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax) formatting, [tips](https://bookdown.org/yihui/rmarkdown-cookbook/custom-blocks.html)   
+
+
+[Push code from VS Code to GitHub repository](https://www.sachinsf.com/how-to-push-the-code-from-vs-code-to-github/)    
+
+
 [Sign docs electronically without printing and scanning](https://www.howtogeek.com/164668/how-to-electronically-sign-documents-without-printing-and-scanning-them/)  
 
 
@@ -38,3 +44,22 @@ Online [typing English to Hindi](https://hindityping.info/) and [get Hindi Fonts
 
 
 [The absolute minimum every software developer absolutely positively must know about unicode and character-sets](https://www.joelonsoftware.com/2003/10/08/the-absolute-minimum-every-software-developer-absolutely-positively-must-know-about-unicode-and-character-sets-no-excuses/) by Joel Spolsky   
+
+[Aspect ratios for videos](https://invideo.io/blog/aspect-ratio-for-videos/) - learn standard aspect ratios, [resolution](https://www.viewsonic.com/library/tech/monitor-resolution-aspect-ratio/), and aspect ratio used commonly.   
+
+[OS Query](https://github.com/osquery/osquery)   
+
+[Project Euler](https://projecteuler.net/archives)   
+
+[HTTP requests](https://www.twilio.com/blog/5-ways-to-make-http-requests-in-java), [Ex 2](https://www.javaguides.net/2018/10/apache-httpclient-post-http-request-example.html)   
+
+[Time](https://time.is/)
+
+[10 fast fingers](10fastfingers.com)   
+
+[Axis](https://axis.apache.org/axis/java/user-guide.html), writing a [sample SOAP web service](https://sarinduudagepalasblog.wordpress.com/2017/05/01/writing-soap-web-services-with-apache-axis2-maven-tomcat/)   
+
+> This is how you display an image in dark/light mode    
+![electrocat](https://myoctocat.com/assets/images/base-octocat.svg#gh-dark-mode-only)   
+
+
