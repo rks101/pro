@@ -23,9 +23,15 @@ Productivity tips and tools
 
 [Dark mode in Google docs or Chrome](https://www.howtogeek.com/721117/how-to-turn-on-dark-mode-in-google-docs/) using [chrome flags](chrome://flags/). Also, ctrl+shift+l should bring dark mode for some websites in browser if enabled (desktop/laptop only).   
 
+----
 
 [Refer cells from another worksheet](https://www.ablebits.com/office-addins-blog/2015/12/08/excel-reference-another-sheet-workbook/)    
 
+[Advance Excel tips](https://www.pcmag.com/how-to/22-excel-tips-for-becoming-a-spreadsheet-pro) and [more](https://www.loginradius.com/blog/growth/advanced-excel-sheet-tips/)   
+
+
+
+----
 
 [Gmail - whitelisting email](https://www.rightinbox.com/blog/whitelist-an-email-in-gmail)   
 
